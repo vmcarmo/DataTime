@@ -1,0 +1,13 @@
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\bin\Debug\netcoreapp3.1\DataTime.exe
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\bin\Debug\netcoreapp3.1\DataTime.deps.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\bin\Debug\netcoreapp3.1\DataTime.runtimeconfig.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\bin\Debug\netcoreapp3.1\DataTime.runtimeconfig.dev.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\bin\Debug\netcoreapp3.1\DataTime.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\bin\Debug\netcoreapp3.1\DataTime.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\obj\Debug\netcoreapp3.1\DataTime.csprojAssemblyReference.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\obj\Debug\netcoreapp3.1\DataTime.AssemblyInfoInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\obj\Debug\netcoreapp3.1\DataTime.AssemblyInfo.cs
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\obj\Debug\netcoreapp3.1\DataTime.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\obj\Debug\netcoreapp3.1\DataTime.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\obj\Debug\netcoreapp3.1\DataTime.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\DataTime\obj\Debug\netcoreapp3.1\DataTime.genruntimeconfig.cache
